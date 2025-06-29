@@ -46,5 +46,5 @@ I'm a indie developer with a keen interest in **Full-Stack Web Development** & *
 
 ### 📊 Statistics
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kulovecdejan&show_icons=true&theme=tokyonight)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kulovecdejan&show_icons=true&theme=tokyonight)
 
